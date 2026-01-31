@@ -4,7 +4,7 @@
 This project analyzes a food delivery dataset to extract key business insights. It involves data cleaning, merging multiple datasets (CSV, JSON, SQL), and performing exploratory data analysis (EDA) to answer questions about revenue, customer behavior, and restaurant performance.
 
 ## 📂 Files Description
-* **`Food_Delivery_Analysis.ipynb`**: The main Jupyter Notebook containing the code for data loading, cleaning, merging, and analysis.
+* **`final_food_delivery_dataset.csv`**: The main dataset after performing merging operations among the other datasets.
 * **`orders.csv`**: Contains order details (order ID, date, amount, etc.).
 * **`users.json`**: Contains user demographic data (names, membership status, etc.).
 * **`restaurants.sql`**: Contains restaurant details (names, cuisine, ratings) in SQL format.
@@ -36,7 +36,7 @@ To run this project, you need **Python 3.x** installed along with the following 
     ```
 
 4.  **Open the Notebook**:
-    Click on `Food_Delivery_Analysis.ipynb` in the Jupyter interface.
+    Click on each `Question_n.ipynb` (where n is the no. of Question) in the Jupyter interface.
 
 5.  **Run the Cells**:
     Execute the cells step-by-step to view the data processing and answers to the analysis questions.
